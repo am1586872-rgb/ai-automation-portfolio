@@ -1,0 +1,8 @@
+{
+  "name": "عبداللاه محمد | مطور برامج وأتمتة",
+  "description": "الموقع الرسمي للمطور ومهندس الأتمتة عبداللاه محمد لعرض المهارات، الخدمات الرقمية، وحلول الأعمال البرمجية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
